@@ -1,15 +1,12 @@
-# 👋 Welcome to the GitHub profile of BijonAI!
+# 👋 你好，我们是BijonAI!
 
-Hi! We are BijonAI team, this is our project introduction.
+Hi! 欢迎来到BijonAI团队的GitHub主页！
 
 ## 🤔 What is BijonAI?
 
-Bijon(ビジョン) (The Japanese Romanization of the word "Vision") is a AI-powered animation generator based on [VueMotion](https://github.com/bug-duck/vuemotion). It focus on the generating of mathematical, statistical and physical animations, which want to generate high-quality interactive content.
+Bijon(日语"ビジョン"的罗马注音)，译为"视觉"。BijonAI希望通过真正看得见的，可以交互的服务来让教育更公平，为学校，老师，学生的教学和学习提供帮助，让AI技术真正在教育上发挥巨大作用。
 
-VueMotion is an open-source animation engine for VueJS ecosystem, developed by [BugDuck Team](https://github.com/bug-duck).
-
-## ⏰ When can I use the product?
-
-BijonAI is still developing so it has not be public but we are woring in progress! Welcome to follow our latest news.
-
-The member of BijonAI team are also from BugDuck Team. So you can follow BugDuck on GitHub, Twitter(X) and BiliBili, too!
+## 🧑‍🎓 中小学教育
+## 👦 学前教育
+## 🏫 学校
+## 🏢 第三方教育机构
