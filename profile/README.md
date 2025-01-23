@@ -7,6 +7,11 @@ Hi! 欢迎来到BijonAI团队的GitHub主页！
 Bijon(日语"ビジョン"的罗马注音)，译为"视觉"。BijonAI希望通过真正看得见的，可以交互的服务来让教育更公平，为学校，老师，学生的教学和学习提供帮助，让AI技术真正在教育上发挥巨大作用。
 
 ## 🧑‍🎓 中小学教育
+| Name&Link     | Descriptions                                                                                                                                                                                               |
+| :------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ExchJS        | A powerful mathematical visualization library for interactive geometry and function plotting.                                                                                                              |
+| IdeaJS        | 🧩 Front-end-focused interactive content framework that allows you to create dynamic layouts and visualizations using a template-based XML-like syntax. It combines various front-end technologies and engines to enable the creation of rich, interactive content through a declarative approach. |
+| echomath-sdk | Focus on the generation of demonstration animations for mathematics, statistics, etc.                                                                                                                  |
 ## 👦 学前教育
 ## 🏫 学校
 ## 🏢 第三方教育机构
