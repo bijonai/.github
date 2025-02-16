@@ -2,4 +2,4 @@
 
 # 👋 Hi, We are BijonAI team!
 
-Bijon [ttsmaker-file-2025-2-16-16-1-45.webm](https://github.com/user-attachments/assets/fc688c0f-8b8d-4087-b2e2-5824539fdbe1)/biːdʒɒn/ (ビジョン)
+Bijon [/biːdʒɒn/](https://github.com/user-attachments/assets/fc688c0f-8b8d-4087-b2e2-5824539fdbe1)(ビジョン) is the romanization of the word "Vision". We are a young AI team working hard for the development of AI technology.
