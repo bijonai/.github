@@ -10,22 +10,3 @@ Bijon [/biːdʒɒn/](https://github.com/user-attachments/assets/fc688c0f-8b8d-40
 
 - EchoAI: AI-powered drawwable teacher for innovating education.
 > The product is still developing!
-
-- SayoAI: A interactive content generator based on [eich](https://github.com/BijonAI/eich).
-> SDK Respository: https://github.com/BijonAI/sayo-sdk
-
-## 📚 Library
-
-- Eich: A method to innovate your image/slides/ebook/blog with interaction.
-> Eich is a intractive marking language for revoluting your presentation or teaching or any other you want make the data more intractive and visiual. It supports JavaScript insert, which allows you able to spread your idea and creativity. Meanwhile, eich gives a lot of graphs for example mathematical components and charts, you can easily use them with little code.
-> 
-> Open-Source Respository: [https://github.com/BijonAI/eich](https://github.com/BijonAI/eich)
-> 
-> Documentation: [https://eich.club](https://eich.club)
-
-- Serverflow: Convenient and powerful AIGC workflow server framework
->
-> Open-Source Respository: https://github.com/BijonAI/serverflow
-
-- IdeaJs: A powerful mathematical visualization library for interactive geometry and function plotting.
-> Open-Source Respository: [https://github.com/BijonAI/ideajs](https://github.com/BijonAI/ideajs)
